@@ -1,4 +1,4 @@
-<h2 align="left">Haluuu👋! My name is Prince from Philippines!</h2>
+<h2 align="left">Haluuu👋! My name is Prince from the Philippines!</h2>
 
 ###
 
