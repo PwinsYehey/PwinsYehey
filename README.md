@@ -1,11 +1,9 @@
 <h2 align="left">Haluuu👋! My name is Prince from the Philippines!</h2>
 
 ###
-
-<img align="right" height="178" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZzNXh4ODd5cnk4cTk1eHp3eW9jNTVudWF6YXhjazFpYXVsaTJtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/si4P9VBMEIhq40i6tT/giphy.gif"  />
+<img align="right" height="210" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZzNXh4ODd5cnk4cTk1eHp3eW9jNTVudWF6YXhjazFpYXVsaTJtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/si4P9VBMEIhq40i6tT/giphy.gif"  />
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -21,7 +19,13 @@
 </div>
 
 ###
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -33,7 +37,6 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/prince-herrera-8639712b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
